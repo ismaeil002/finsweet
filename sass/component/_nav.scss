@@ -1,0 +1,95 @@
+.navbar {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+.navbar-brand {
+    padding: 0;
+    margin: 0;       
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+	padding-right: 0;
+	padding-left: 0;
+}
+
+.menu{
+    background-color: #1C1E53;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+}
+
+.nav_ex{
+    background-color: #1C1E53;
+    animation: nav 1s;
+    -webkit-animation: nav 1s;
+}
+
+@keyframes nav{
+    0%{
+        top: -80px;
+    }
+
+    100%{
+        top: 0;
+    }
+}
+
+.menu .nav_logo{
+    margin: 32px 0;
+}
+
+.menu ul li{
+    margin-left: 32px;
+}
+
+.menu ul li a{
+    color: #BBBBCB !important;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    transition: all linear 0.3s;
+    -webkit-transition: all linear 0.3s;
+    -moz-transition: all linear 0.3s;
+    -ms-transition: all linear 0.3s;
+    -o-transition: all linear 0.3s;
+}
+
+.menu ul li a.active{
+    color: #fff !important;
+}
+
+.nav_btn a.active{
+    color: #1C1E53;
+    background-color: #FCD980;
+}
+
+.menu ul li a:hover{
+    color: #fff !important;
+}
+
+.nav_btn{
+    margin-left: 48px;
+}
+
+.nav_btn a{
+    padding: 16px 48px;
+    border: 2px solid rgba(244, 246, 252, 0.2);
+    border-radius: 41px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #fff;
+    transition: all linear 0.3s;
+    -webkit-transition: all linear 0.3s;
+    -moz-transition: all linear 0.3s;
+    -ms-transition: all linear 0.3s;
+    -o-transition: all linear 0.3s;
+}
+
+.nav_btn a:hover{
+    background-color: #FCD980;
+    color: #1C1E53;
+}

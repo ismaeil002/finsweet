@@ -1,0 +1,314 @@
+.pjt_header h2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    // line-height: 64px;
+    color: #282938;
+    margin-top: 128px;
+}
+
+
+
+.hproject_btns a{
+    padding: 16px 56px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 32px;
+    border-radius: 41px;
+    color: #000;
+ }
+ 
+ .hproject_btns .pb_2{
+     padding-left: 0;
+     color: #282938;
+     transition: all linear 0.3s;
+     -webkit-transition: all linear 0.3s;
+     -moz-transition: all linear 0.3s;
+     -ms-transition: all linear 0.3s;
+     -o-transition: all linear 0.3s;
+     background-color: transparent;
+ }
+ 
+ .hproject_btns i{
+     margin-left: 16px;
+     transition: all linear 0.3s;
+     -webkit-transition: all linear 0.3s;
+     -moz-transition: all linear 0.3s;
+     -ms-transition: all linear 0.3s;
+     -o-transition: all linear 0.3s;
+ }
+ 
+ .hproject_btns a:hover i{
+    display: none;
+ }
+ 
+ .hproject_btns a:hover{
+     padding-left: 56px;
+     background-color: #FCD980;
+     color: #000;
+ }
+
+//  .hproject_btns a{
+//     margin-top: 130px;
+//  }
+
+.project_main{
+    margin-top: 64px;
+    margin-bottom: 128px;
+}
+
+.hproject_left{
+    position: relative;
+    overflow: hidden;
+}
+
+.hproject_left img{
+    transition: all linear 0.3s;
+    -webkit-transition: all linear 0.3s;
+    -moz-transition: all linear 0.3s;
+    -ms-transition: all linear 0.3s;
+    -o-transition: all linear 0.3s;
+}
+
+.hproject_left:hover img{
+    transform: scale(1.05);
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    -o-transform: scale(1.05);
+}
+
+.prj_ovrly{
+    position: absolute;
+    width: 0%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: linear-gradient(329.39deg, #1C1E53 -10.96%, rgba(28, 30, 83, 0.42) 103.96%);
+    transition: all linear 0.3s;
+    -webkit-transition: all linear 0.3s;
+    -moz-transition: all linear 0.3s;
+    -ms-transition: all linear 0.3s;
+    -o-transition: all linear 0.3s;
+}
+
+.hproject_left:hover .prj_ovrly{
+    width: 47%;
+}
+
+.pjO_text{
+    position: absolute;
+    width: 0;
+    bottom: 0;
+    left: 48px;
+    transition: all linear 0.3s;
+    -webkit-transition: all linear 0.3s;
+    -moz-transition: all linear 0.3s;
+    -ms-transition: all linear 0.3s;
+    -o-transition: all linear 0.3s;
+    opacity: 0;
+}
+
+.hproject_left:hover .pjO_text{
+    opacity: 1;
+    width: 100%;
+}
+
+.pjO_text h3{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    color: #fff;
+    margin-bottom: 10px;
+    transition: all linear 0.3s;
+    -webkit-transition: all linear 0.3s;
+    -moz-transition: all linear 0.3s;
+    -ms-transition: all linear 0.3s;
+    -o-transition: all linear 0.3s;
+}
+.pjO_text p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #FFFFFF;
+    opacity: 0.8;
+    margin-bottom: 10px;
+}
+
+
+
+
+.pjovrly_btns a{
+    padding: 10px 56px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+line-height: 28px;
+    border-radius: 41px;
+    color: #FCD980;
+    margin-bottom: 76px;
+
+ }
+ 
+ .pjovrly_btns .pO_2{
+     padding-left: 0;
+     color: #FCD980;
+     transition: all linear 0.3s;
+     -webkit-transition: all linear 0.3s;
+     -moz-transition: all linear 0.3s;
+     -ms-transition: all linear 0.3s;
+     -o-transition: all linear 0.3s;
+     background-color: transparent;
+ }
+ 
+ .pjovrly_btns i{
+     margin-left: 16px;
+     transition: all linear 0.3s;
+     -webkit-transition: all linear 0.3s;
+     -moz-transition: all linear 0.3s;
+     -ms-transition: all linear 0.3s;
+     -o-transition: all linear 0.3s;
+ }
+ 
+ .pjovrly_btns a:hover i{
+    display: none;
+ }
+ 
+ .pjovrly_btns a:hover{
+     padding-left: 56px;
+     background-color: #FCD980;
+     color: #000;
+ }
+
+
+
+
+ .pjt_r01{
+    position: relative;
+ }
+
+ .pr_img{
+   overflow: hidden;
+ }
+
+
+ .pr_img img{
+    transition: all linear 0.3s;
+    -webkit-transition: all linear 0.3s;
+    -moz-transition: all linear 0.3s;
+    -ms-transition: all linear 0.3s;
+    -o-transition: all linear 0.3s;
+}
+
+ .pjt_r01:hover .pr_img img{
+    transform: scale(1.05);
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    -o-transform: scale(1.05);
+}
+
+ .pjt_r01:hover .pr_ovrly01{
+    width: 100%;
+ }
+
+ .pr_ovrly01{
+    position: absolute;
+    width: 0%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: linear-gradient(329.39deg, #1C1E53 -10.96%, rgba(28, 30, 83, 0.42) 103.96%);
+    display: flex;
+    align-items: flex-end;
+    transition: all linear 0.3s;
+    -webkit-transition: all linear 0.3s;
+    -moz-transition: all linear 0.3s;
+    -ms-transition: all linear 0.3s;
+    -o-transition: all linear 0.3s;
+}
+
+
+
+
+.pjt_r01:hover .pr_txt{
+    opacity: 1;
+}
+
+ .pr_txt{
+    margin-left: 56px;
+    opacity: 0;
+    transition: all linear 0.3s;
+    -webkit-transition: all linear 0.3s;
+    -moz-transition: all linear 0.3s;
+    -ms-transition: all linear 0.3s;
+    -o-transition: all linear 0.3s;
+}
+
+ .pr_txt h4{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+ }
+
+
+
+
+ .pr_btns a{
+    padding: 10px 56px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+line-height: 28px;
+    border-radius: 41px;
+    color: #FCD980;
+    margin-bottom: 45px;
+
+ }
+ 
+ .pr_btns .pr_2{
+     padding-left: 0;
+     color: #FCD980;
+     transition: all linear 0.3s;
+     -webkit-transition: all linear 0.3s;
+     -moz-transition: all linear 0.3s;
+     -ms-transition: all linear 0.3s;
+     -o-transition: all linear 0.3s;
+     background-color: transparent;
+ }
+ 
+ .pr_btns i{
+     margin-left: 16px;
+     transition: all linear 0.3s;
+     -webkit-transition: all linear 0.3s;
+     -moz-transition: all linear 0.3s;
+     -ms-transition: all linear 0.3s;
+     -o-transition: all linear 0.3s;
+ }
+ 
+ .pr_btns a:hover i{
+    display: none;
+ }
+ 
+ .pr_btns a:hover{
+     padding-left: 56px;
+     background-color: #FCD980;
+     color: #000;
+ }
+
+
+ .R02{
+    margin-top: 40px;
+ }

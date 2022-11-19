@@ -1,0 +1,79 @@
+.slove_bg{
+    background-color: #F4F6FC;
+    padding-bottom: 128px;
+}
+
+.hslove_heading h4{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+    margin-top: 128px;
+}
+
+.hslove_heading h2{
+    margin-bottom: 47px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+    color: #282938;
+    margin-bottom: 24px;
+}
+
+
+.hslove_inner{
+    background-color: #fff;
+    margin-top: 12px;
+}
+
+.hslove_text{
+    padding: 56px 32px 48px 48px;
+}
+
+.hslove_inner:hover .hslove_text h3{
+    color: #2405F2;
+}
+.hslove_inner:hover .hslove_text p{
+    color: #2405F2;
+    opacity: 0.7;
+}
+
+.hslove_text i{
+    font-size: 24px;
+    margin-bottom: 22px;
+    color: #2405F2;
+}
+
+.hslove_text h3{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #282938;
+    margin-bottom: 12px;
+    transition: all linear 0.3s;
+    -webkit-transition: all linear 0.3s;
+    -moz-transition: all linear 0.3s;
+    -ms-transition: all linear 0.3s;
+    -o-transition: all linear 0.3s;
+}
+
+.hslove_text p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+    opacity: 0.7;
+    transition: all linear 0.3s;
+    -webkit-transition: all linear 0.3s;
+    -moz-transition: all linear 0.3s;
+    -ms-transition: all linear 0.3s;
+    -o-transition: all linear 0.3s;
+}

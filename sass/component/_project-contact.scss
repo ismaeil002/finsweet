@@ -1,0 +1,51 @@
+.pjtcontact_heading h2{
+    margin-top: 128px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+    color: #282938;
+    margin-bottom: 20px;
+}
+
+.pjtcontact_text p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+    opacity: 0.7;
+    margin-bottom: 40px;
+}
+
+.pjtcontact_btn{
+    margin-bottom: 128px;
+}
+
+.pjtcontact_btn a{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 32px;
+    color: #282938;
+    padding: 16px 66px;
+    background-color: #FCD980;
+    border-radius: 41px;
+    -webkit-border-radius: 41px;
+    -moz-border-radius: 41px;
+    -ms-border-radius: 41px;
+    -o-border-radius: 41px;
+    transition: all linear 0.3s;
+    -webkit-transition: all linear 0.3s;
+    -moz-transition: all linear 0.3s;
+    -ms-transition: all linear 0.3s;
+    -o-transition: all linear 0.3s;
+}
+
+.pjtcontact_btn a:hover{
+    background-color: #1C1E53;
+    color: #fff;
+}

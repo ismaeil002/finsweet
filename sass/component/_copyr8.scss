@@ -1,0 +1,41 @@
+.copyr8_text{
+    margin: 32px 0;
+}
+
+.copyr8_text span{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+}
+
+.copyr8_main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.copyr8_menu ul li{
+    display: inline-block;
+    margin-left: 32px;
+}
+
+.copyr8_menu ul li a{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+    transition: all linear 0.3s;
+    -webkit-transition: all linear 0.3s;
+    -moz-transition: all linear 0.3s;
+    -ms-transition: all linear 0.3s;
+    -o-transition: all linear 0.3s;
+}
+
+.copyr8_menu ul li a:hover{
+    color: #5239FA;
+}

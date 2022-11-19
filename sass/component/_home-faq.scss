@@ -1,0 +1,65 @@
+.home_faqmain{
+    margin: 128px 0;
+}
+
+.hm_faqleft{
+    margin-right: 90px;
+}
+
+.hm_faqleft h2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 56px;
+    color: #282938;
+    margin-bottom: 16px;
+}
+
+.hm_faqleft a{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    color: #2405F2;
+    opacity: 0.87;
+}
+
+.hm_faqr8 .number{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #2405F2;
+}
+
+
+.hm_faqr8 .qn{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #282938;
+    margin-left: 60px;
+}
+
+
+.accordion-item:first-of-type .accordion-button {
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+    border: none;
+}
+
+.accordion-button:focus {
+	border-color: #282938;
+	outline: 0;
+	box-shadow: none;
+}
+
+.hm_faqr8 .ans{
+    margin-left: 85px;
+    margin-right: 180px;
+}

@@ -1,0 +1,126 @@
+#home_clients{
+    background-color: #F4F6FC;
+}
+
+.clients_main{
+    padding: 128px 0;
+}
+
+.clients_left{
+    margin-right: 30px;
+}
+
+.clients_left h2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 56px;
+    margin-bottom: 16px;
+    color: #282938;
+}
+
+.clients_left p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+
+}
+
+
+
+
+.clients_cmnts p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 48px;
+    color: #282938;
+}
+
+.clients_profile{
+    margin-top: 48px;
+}
+
+.clint_name{
+    margin-left: 14px;
+}
+
+.clint_name h4{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    color: #282938;
+}
+
+.clint_name h5{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 28px;
+    color: #282938;
+}
+
+.clients_slider .nxtarw{
+    position: absolute;
+    color: #282938;
+    opacity: 0.6;
+    bottom: 0;
+    right: 0;
+    font-size: 25px;
+    height: 48px;
+    width: 48px;
+    text-align: center;
+    line-height: 48px;
+    border-radius: 50%;
+    transition: all linear 0.3s;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    -webkit-transition: all linear 0.3s;
+    -moz-transition: all linear 0.3s;
+    -ms-transition: all linear 0.3s;
+    -o-transition: all linear 0.3s;
+}
+
+.clients_slider .nxtarw:hover{
+    background-color: #2405F2;
+    color: #fff;
+}
+
+.clients_slider .prearw{
+    position: absolute;
+    color: #282938;
+    opacity: 0.6;
+    bottom: 0;
+    right: 70px;
+    font-size: 25px;
+    height: 48px;
+    width: 48px;
+    text-align: center;
+    line-height: 48px;
+    border-radius: 50%;
+    transition: all linear 0.3s;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    -webkit-transition: all linear 0.3s;
+    -moz-transition: all linear 0.3s;
+    -ms-transition: all linear 0.3s;
+    -o-transition: all linear 0.3s;
+    z-index: 99;
+}
+
+.clients_slider .prearw:hover{
+    background-color: #2405F2;
+    color: #fff;
+}

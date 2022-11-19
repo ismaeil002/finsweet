@@ -1,0 +1,318 @@
+@media(max-width:991.98px){
+   /* home page start */
+
+   .menu i{
+    color: #FCD980;
+    font-size: 25px;
+   }
+
+   .menu button{
+    outline: none;
+    border: none;
+   }
+
+   .menu button:focus{
+    box-shadow: none;
+   }
+
+   .nav_btn{
+    margin-left: 0px;
+}
+
+
+ .nav_btn a{
+    padding: 5px 10px;
+  }
+
+  
+  .banner_btns a{
+    padding: 0px 0px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 32px;
+    border-radius: 41px;
+    background-color: transparent;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+    padding-right: 10px;
+    transition: all linear 0.3s;
+    -webkit-transition: all linear 0.3s;
+    -moz-transition: all linear 0.3s;
+    -ms-transition: all linear 0.3s;
+    -o-transition: all linear 0.3s;
+}
+
+ .banner_btns a:hover{
+    color: #FCD980;
+ }
+
+  .banner_btns .bb_2{
+    padding-left: 0;
+    margin-left: 0px;
+    color: #FFFFFF;
+    transition: all linear 0.3s;
+    -webkit-transition: all linear 0.3s;
+    -moz-transition: all linear 0.3s;
+    -ms-transition: all linear 0.3s;
+    -o-transition: all linear 0.3s;
+    background-color: transparent;
+    margin-bottom: 150px;
+}
+
+
+.banner_btns .bb_2:hover{
+    padding-left: 0px;
+    background-color: transparent;
+    color: #FCD980;
+}
+
+   .work_main{
+    margin-top: 48px;
+}
+
+.work_inner{
+    margin-bottom: 0px;
+ }
+
+.work_text h2{
+    margin-top: 80px;
+}
+
+.work_btns a{
+    margin-bottom: 0;
+}
+
+.hproject_left:hover .prj_ovrly{
+    width: 100%;
+}
+
+.hproject_left{
+    margin-bottom: 40px;
+}
+
+.hproject_left:hover .pjO_text{
+    opacity: 1;
+    width: 90%;
+}
+
+.pjt_header h2{
+    margin-top: 80px;
+}
+
+.hslove_heading h4{
+    margin-top: 80px;
+}
+
+.hslove_heading h2{
+    margin-bottom: 47px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 54px;
+    color: #282938;
+    margin-bottom: 24px;
+}
+
+.slove_bg{
+    padding-bottom: 80px;
+}
+
+.hslove_text{
+    padding: 36px 12px 36px 18px;
+}
+
+
+.clients_main{
+    padding: 80px 0;
+}
+
+.clients_left p{
+    margin-bottom: 48px;
+    font-size: 14px;
+    opacity: 0.7;
+}
+
+.clients_cmnts p{
+    font-size: 26px;
+    line-height: 38px;
+}
+
+.home_faqmain{
+    margin: 80px 0;
+}
+
+.hm_faqleft h2{
+    margin-bottom: 10;
+}
+
+.hm_faqleft a{
+    margin-bottom: 48px;
+}
+
+.inqry_txt{
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    height: 100%;
+    width: 92%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+}
+
+.home_inquiry{
+    margin: 80px 0;
+}
+
+.inquiry_right{
+    margin-top: 65px;
+}
+
+.inquiry_right{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.inqry_btns .inb_2{
+    margin-bottom: 20px;
+}
+
+#home_blog{
+    margin-bottom: 80px;
+}
+
+.hmblog_heading h2{
+    margin-bottom: 44px;
+}
+
+
+
+.hm_faqr8 .ans{
+    margin-left: 25px;
+    margin-right: 5px;
+}
+
+.hm_faqr8 .qn{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 26px;
+    color: #282938;
+    margin-left: 30px;
+}
+
+
+
+.footer_logo{
+    margin-top: 80px;
+}
+
+.ftr_r8txt{
+    margin-top: 60px;
+}
+
+.footer_icons ul{
+    margin-bottom: 30px;
+}
+
+
+
+   /* home page ends */
+
+
+   /* about page start */
+
+   .abtpblm_lft h4{
+    margin-top: 156px;
+   }
+
+   .abtpblm_lft p{
+    margin-bottom: 70px;
+   }
+
+   .abt_prbimg{
+    margin-top: 0px;
+}
+
+.wwa_titel h4{
+    margin-left: 30px;
+}
+
+.wwa_pdig{
+padding: 0 30px;
+}
+
+.wwa_inner{
+    padding-bottom: 50px;
+}
+
+.abtprocess_inner{
+    margin-bottom: 60px;
+}
+
+.bnftlogo img{
+    margin-top: 30px;
+}
+   /* about page ends */
+
+   /* pricing part start */
+
+   .price_inner{
+    margin-top: 20px;
+   }
+
+   /* pricing part ends */
+
+
+   /* contact part start */
+
+   .cntctheading h1{
+    margin-top: 156px;
+   }
+
+   .form_main{
+    margin: 0 20px;
+   }
+
+   /* contact part ends */
+}
+
+
+
+@media(max-width:470px){
+
+
+    .inqry_txt h2{
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 35px;
+        line-height: 34px;
+        color: #fff;
+        margin-bottom: 24px;
+    }
+
+    .inqry_txt p{
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        color: #fff;
+    }
+
+    .inquiry_right{
+        margin-top: 45px;
+    }
+
+    .inqry_btns a{
+        padding: 16px 36px;
+    }    
+    
+}

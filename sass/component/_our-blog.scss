@@ -1,0 +1,121 @@
+.ourblog_heading h2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+    color: #282938;
+    margin-top: 128px;
+    margin-bottom: 32px;
+}
+
+.ourblog_inner{
+    margin-top: 16px;
+}
+
+.ourblog_inner:hover .ourblog_img img{
+    transform: scale(1.05);
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    -o-transform: scale(1.05);
+}
+
+.ourblog_img{
+    margin-bottom: 32px;
+    overflow: hidden;
+}
+
+.ourblog_img img{
+    transition: all linear 0.3s;
+    -webkit-transition: all linear 0.3s;
+    -moz-transition: all linear 0.3s;
+    -ms-transition: all linear 0.3s;
+    -o-transition: all linear 0.3s;
+}
+
+.ourblog_text span{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+    opacity: 0.7;
+}
+
+.ourblog_text h2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #282938;
+    margin: 16px 0;
+    transition: all linear 0.3s;
+    -webkit-transition: all linear 0.3s;
+    -moz-transition: all linear 0.3s;
+    -ms-transition: all linear 0.3s;
+    -o-transition: all linear 0.3s;
+}
+
+.ourblog_inner:hover .ourblog_text h2{
+    color: #2405F2;
+}
+
+.ourblog_text p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+    opacity: 0.7;
+    margin-bottom: 10px;
+}
+
+
+
+
+.ourblog_btns a{
+    padding: 10px 56px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    border-radius: 41px;
+    color: #FCD980;
+    margin-bottom: 48px;
+
+ }
+ 
+ .ourblog_btns .ob_2{
+     padding-left: 0;
+     color: #282938;
+     transition: all linear 0.3s;
+     -webkit-transition: all linear 0.3s;
+     -moz-transition: all linear 0.3s;
+     -ms-transition: all linear 0.3s;
+     -o-transition: all linear 0.3s;
+     background-color: transparent;
+ }
+ 
+ .ourblog_btns i{
+     margin-left: 16px;
+     transition: all linear 0.3s;
+     -webkit-transition: all linear 0.3s;
+     -moz-transition: all linear 0.3s;
+     -ms-transition: all linear 0.3s;
+     -o-transition: all linear 0.3s;
+ }
+ 
+ .ourblog_btns a:hover i{
+    display: none;
+ }
+ 
+ .ourblog_btns a:hover{
+     padding-left: 56px;
+     background-color: #FCD980;
+     color: #000;
+ }
